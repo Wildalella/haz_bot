@@ -1,3 +1,5 @@
+A ROS and Gazebo robotics package developed for the HAZ Bot autonomous rover, including robot description, simulation environments, configuration files, and control interfaces. This is mainly playing around and getting use to ROS.
+
 ## Robot Package Template
 
 This is a GitHub template. You can make your own copy by clicking the green "Use this template" button.
